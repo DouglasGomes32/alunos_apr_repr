@@ -1,0 +1,4 @@
+ALUNOS APROVADOS: 
+Douglas | media: 9.3 | situacao: APROVADO
+Gabriel | media: 7.0 | situacao: APROVADO
+Gomes | media: 9.3 | situacao: APROVADO
